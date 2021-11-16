@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ThreadTypes">
+        <item>HandlerThread</item>
+        <item>Threads</item>
+        <item>ThreadPoolExecutor</item>
+        <item>Coroutines Default</item>
+        <item>Coroutines IO</item>
+        <item>Coroutines MyOwnThread</item>
+
+    </string-array>
+</resources>
